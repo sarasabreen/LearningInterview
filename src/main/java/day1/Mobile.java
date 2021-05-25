@@ -5,11 +5,10 @@ public class Mobile {
 	public void callNumber(String name , long num) {
 		System.out.println(name);
 		System.out.println(num);
-
 		
 		}
 	public void typeMessage(String type) {
-		System.out.println("Hi" +type);
+		System.out.println("Hi " + type);
 	}
 	
 	public String buttons = "red color button";
